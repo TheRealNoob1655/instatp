@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A machine that can teleport you instantly to a set location located anywhere in the entire world. \nThis Behaviour Pack is Achievement-Friendly. \nBy TheRealNoob1655",
+        "name": "Instant TP Machine [Structure]",
+        "uuid": "30d51425-5211-4a2e-8b77-b28948fcc2fd",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 26, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Instant TP Machine [Structure]",
+            "type": "data",
+            "uuid": "b78b87dc-6d67-4570-8dda-26bb620a7c49",
+            "version": [ 1, 0, 0 ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "TheRealNoob1655"
+        ],
+        "product_type": "addon",
+        "url": "https://youtube.com/@TheRealNoob1655"
+    }
+}
